@@ -1,3 +1,4 @@
+## IDM in your Commandline
 A sample command-line application with an entrypoint to download large file in remarkable speed like IDM internet download manager does.
 
 ## Screenshot
